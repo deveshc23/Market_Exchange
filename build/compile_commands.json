@@ -1,0 +1,50 @@
+[
+{
+  "directory": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/build",
+  "command": "C:\\msys64\\clang64\\bin\\clang++.exe -I\"C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/include\" -g -std=gnu++17 -o CMakeFiles\\MarketExchange.dir\\src\\main.cpp.obj -c \"C:\\Users\\choud\\OneDrive - IIT Kanpur\\Coding\\Market_Exchange\\src\\main.cpp\"",
+  "file": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/src/main.cpp",
+  "output": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/build/CMakeFiles/MarketExchange.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/build",
+  "command": "C:\\msys64\\clang64\\bin\\clang++.exe -I\"C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/include\" -g -std=gnu++17 -o CMakeFiles\\MarketExchange.dir\\src\\Order.cpp.obj -c \"C:\\Users\\choud\\OneDrive - IIT Kanpur\\Coding\\Market_Exchange\\src\\Order.cpp\"",
+  "file": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/src/Order.cpp",
+  "output": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/build/CMakeFiles/MarketExchange.dir/src/Order.cpp.obj"
+},
+{
+  "directory": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/build",
+  "command": "C:\\msys64\\clang64\\bin\\clang++.exe -I\"C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/include\" -g -std=gnu++17 -o CMakeFiles\\MarketExchange.dir\\src\\Trade.cpp.obj -c \"C:\\Users\\choud\\OneDrive - IIT Kanpur\\Coding\\Market_Exchange\\src\\Trade.cpp\"",
+  "file": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/src/Trade.cpp",
+  "output": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/build/CMakeFiles/MarketExchange.dir/src/Trade.cpp.obj"
+},
+{
+  "directory": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/build",
+  "command": "C:\\msys64\\clang64\\bin\\clang++.exe -I\"C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/include\" -g -std=gnu++17 -o CMakeFiles\\MarketExchange.dir\\src\\OrderBook.cpp.obj -c \"C:\\Users\\choud\\OneDrive - IIT Kanpur\\Coding\\Market_Exchange\\src\\OrderBook.cpp\"",
+  "file": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/src/OrderBook.cpp",
+  "output": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/build/CMakeFiles/MarketExchange.dir/src/OrderBook.cpp.obj"
+},
+{
+  "directory": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/build",
+  "command": "C:\\msys64\\clang64\\bin\\clang++.exe -I\"C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/include\" -g -std=gnu++17 -o CMakeFiles\\MarketExchange.dir\\src\\MarketDataPublisher.cpp.obj -c \"C:\\Users\\choud\\OneDrive - IIT Kanpur\\Coding\\Market_Exchange\\src\\MarketDataPublisher.cpp\"",
+  "file": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/src/MarketDataPublisher.cpp",
+  "output": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/build/CMakeFiles/MarketExchange.dir/src/MarketDataPublisher.cpp.obj"
+},
+{
+  "directory": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/build",
+  "command": "C:\\msys64\\clang64\\bin\\clang++.exe -I\"C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/include\" -g -std=gnu++17 -o CMakeFiles\\MarketExchange.dir\\src\\PortfolioManager.cpp.obj -c \"C:\\Users\\choud\\OneDrive - IIT Kanpur\\Coding\\Market_Exchange\\src\\PortfolioManager.cpp\"",
+  "file": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/src/PortfolioManager.cpp",
+  "output": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/build/CMakeFiles/MarketExchange.dir/src/PortfolioManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/build",
+  "command": "C:\\msys64\\clang64\\bin\\clang++.exe -I\"C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/include\" -g -std=gnu++17 -o CMakeFiles\\MarketExchange.dir\\src\\TradingBot.cpp.obj -c \"C:\\Users\\choud\\OneDrive - IIT Kanpur\\Coding\\Market_Exchange\\src\\TradingBot.cpp\"",
+  "file": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/src/TradingBot.cpp",
+  "output": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/build/CMakeFiles/MarketExchange.dir/src/TradingBot.cpp.obj"
+},
+{
+  "directory": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/build",
+  "command": "C:\\msys64\\clang64\\bin\\clang++.exe -I\"C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/include\" -g -std=gnu++17 -o CMakeFiles\\MarketExchange.dir\\src\\DatabaseLogger.cpp.obj -c \"C:\\Users\\choud\\OneDrive - IIT Kanpur\\Coding\\Market_Exchange\\src\\DatabaseLogger.cpp\"",
+  "file": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/src/DatabaseLogger.cpp",
+  "output": "C:/Users/choud/OneDrive - IIT Kanpur/Coding/Market_Exchange/build/CMakeFiles/MarketExchange.dir/src/DatabaseLogger.cpp.obj"
+}
+]
